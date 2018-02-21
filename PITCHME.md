@@ -2,7 +2,7 @@
 
 Build, ship and run any application, anywhere
 
---
+---
 
 ### Docker internals
 
