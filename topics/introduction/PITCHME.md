@@ -31,9 +31,14 @@ Containers run __IMAGES__
 ## What is an __IMAGE__ and what is in it?
 
 +++
+## What is an __IMAGE__ and what is in it?
 
 - Snapshot of a container
 - Contains 
     - Operating System (Ubuntu, CentOS, Alpine - 5MB)
     - Application
     - Source Code / Executables
+
++++
+
+![VM and Container Comparison](assets/img/vm_and_container.jpg)
