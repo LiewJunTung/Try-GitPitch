@@ -7,9 +7,9 @@ Long long time ago. There were only physical servers
 +++
 
 Afterwards, Virutualisation technology came out. 
-- VirtualBox
-- VMWare
-- KVM
+- VirtualBox |
+- VMWare |
+- KVM |
 
 +++
 
@@ -20,4 +20,4 @@ Servers that can run multiple Virtual Machines
 
 ## Containers
 
-![Container](assets/container.jpg)
+![Container](assets/img/container.jpg)
