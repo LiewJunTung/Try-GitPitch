@@ -1,4 +1,4 @@
-# @fa[docker] Docker
+# @fa[umbrella] Docker
 
 Build, ship and run any application, anywhere
 
