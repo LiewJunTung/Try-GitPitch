@@ -16,8 +16,9 @@ Containers are lightweight and portable encapsulations of an environment in whic
 
 ### What are __Containers__ (Part 2)
 
-- For Python people, think of it as __VirtualEnv__ or __Conda__.
-- For JavaScript people, think of it as the folder that contains __package__.json file and __node_modules__ folder
+- For __Python__ ~~ __VirtualEnv__ or __Conda__.
+- For __JavaScript__ ~~ __package.json__ file and __node_modules__ folder
+- __Java__ ~~ __.jar__ or __.war__ files
 
 +++
 
@@ -35,4 +36,4 @@ Containers run __IMAGES__
 - Contains 
     - Operating System (Ubuntu, CentOS, Alpine - 5MB)
     - Application
-    - Source Code / Executable
+    - Source Code / Executables
