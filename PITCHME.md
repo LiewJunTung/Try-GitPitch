@@ -1,5 +1,4 @@
-# :whale: Docker
-
+# ![Docker Logo](assets/img/docker-logo.png)
 Build, ship and run any application, anywhere
 
 ---?include=topics/introduction/PITCHME.md
