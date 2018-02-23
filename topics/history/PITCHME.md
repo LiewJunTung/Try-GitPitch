@@ -15,4 +15,4 @@ Servers are able to run run multiple in a single machne.
 
 ![Server Rack](assets/img/server_racks.jpg)
 
-
++++

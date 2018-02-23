@@ -1,1 +1,3 @@
 theme: black
+
+theme-override: assets/css/main.css
