@@ -16,9 +16,9 @@ Containers are lightweight and portable encapsulations of an environment in whic
 
 ### What are __Containers__ (Part 2)
 
-- For __Python__ ~~ __VirtualEnv__ or __Conda__.
-- For __JavaScript__ ~~ __package.json__ file and __node_modules__ folder
-- __Java__ ~~ __.jar__ or __.war__ files
+- For __Python__ ~~ __VirtualEnv__ or __Conda__ |
+- For __JavaScript__ ~~ __package.json__ file and __node_modules__ folder |
+- __Java__ ~~ __.jar__ or __.war__ files 
 
 +++
 
@@ -33,12 +33,22 @@ Containers run __IMAGES__
 +++
 ## What is an __IMAGE__ and what is in it?
 
-- Snapshot of a container
-- Contains 
-    - Operating System (Ubuntu, CentOS, Alpine - 5MB)
-    - Application
-    - Source Code / Executables
+- Snapshot of a container |
+- Contains |
+    - Operating System (Ubuntu, CentOS, Alpine - 5MB) |
+    - Application |
+    - Source Code / Executables |
 
 +++
 
 ![VM and Container Comparison](assets/img/vm_and_container.jpg)
+
++++
+## What can we do with it?
+
+Many things! Example: 
+1. Production Server |
+2. Local Development Server |
+3. Continuous Integration
+4. Tools for one-off use (NPM, Yarn)
+

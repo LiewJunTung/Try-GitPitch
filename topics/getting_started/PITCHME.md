@@ -41,3 +41,5 @@ To see the current process
 ```bash
 $ docker ps
 ```
+
+Note: Docker ps to check process
