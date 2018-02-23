@@ -1,4 +1,4 @@
-# @fa[umbrella] Docker
+# :whale: Docker
 
 Build, ship and run any application, anywhere
 
