@@ -1,4 +1,4 @@
-# @fa[docker fa-2x fa-docker-blue] Docker
+# @fa[docker] Docker
 
 Build, ship and run any application, anywhere
 
